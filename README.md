@@ -8,3 +8,5 @@ Managing devices and applications in Microsoft Intune often involves assigning p
 To solve this, I modified the PowerShell script from Timmy to audit all policies, apps, configurations, and compliance settings assigned to a specific Entra group. I made a few small adjustments: The script now prompts for the group name in the console, lists all parent groups of the selected group, and at the end, asks whether another group should be checked.
 
 This script provides a clear overview, ensuring better visibility and management.
+
+Please visit my blog. Maybe you will find other interesting stuff ;-) >  https://cmdctrl4u.wordpress.com
